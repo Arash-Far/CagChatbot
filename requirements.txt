@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+sseclient-py
+requests
+python-dotenv
+langchain
+langchain-openai
+langgraph
+faiss-cpu 
+langchain-community
+langgraph-checkpoint-sqlite==2.0.6
